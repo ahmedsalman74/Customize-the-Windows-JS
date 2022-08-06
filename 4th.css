@@ -1,0 +1,41 @@
+
+.btn1{
+    border-radius: 10px;
+    border: solid white;
+    margin-top: 50px;
+    margin-left: 550px;
+    width: 160px;
+    height: 50px;
+    background-color:rgba(128, 128, 128, 0.629);
+    font-size: large;
+
+}
+.third{
+    padding-top: 20px;
+    
+    
+    display:block;
+   padding-left: 40%;
+    
+    
+
+ 
+}
+button{
+    border-radius: 10px;
+    border: solid white;
+    margin-top: 50px;
+    width: 30%;
+    height: 60px;
+    background-color:rgba(166, 164, 164, 0.304);
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+
+
+
+
+
